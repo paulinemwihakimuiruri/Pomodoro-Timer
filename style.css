@@ -1,0 +1,31 @@
+body{
+    font-family: sans-serif; 
+    text-align: center; 
+    margin-top: 50px;
+    background-color: rgb(206, 199, 199);
+}
+h1{
+    font-size: 3rem;
+}
+#timer { 
+    font-size: 4rem; 
+    margin: 20px 0;
+ }
+button { 
+    padding: 10px 20px; 
+    margin: 5px; 
+    font-size: 1rem; 
+    color: white;
+    cursor: pointer;   
+    border-radius: 5%;
+}
+#start{
+    background-color: green;
+
+}
+#pause{
+    background-color: grey;
+}
+#reset{
+    background-color: rgb(22, 2, 2);
+}
